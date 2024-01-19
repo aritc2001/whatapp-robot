@@ -1,0 +1,11 @@
+{
+    "db_connection": {
+        "host": "db4free.net",
+        "user": "ari_wabot",
+        "password": "ari_wabot",
+        "database": "ari_wabot"
+    },
+    "db_table_log": {
+        "name": "aw_comm_log"
+    }
+}

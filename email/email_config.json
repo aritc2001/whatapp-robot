@@ -1,0 +1,12 @@
+{
+    "email_config": {
+        "service": "Gmail",
+        "host": "smtp.gmail.com",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "robotemailproject@gmail.com",
+            "pass": "dtqx uxsl xjha ztkg"
+        }
+    }
+}
